@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationWithEF", "WebApplicationWithEF\WebApplicationWithEF.csproj", "{CD26F16F-64F8-450E-8384-FB69BC4BF513}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Libovies", "..\..\..\..\..\projets\EntityFramework\Libovies\Libovies\Libovies.csproj", "{1C47429F-E97F-4B10-9C47-7D0A6DD34543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD26F16F-64F8-450E-8384-FB69BC4BF513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD26F16F-64F8-450E-8384-FB69BC4BF513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD26F16F-64F8-450E-8384-FB69BC4BF513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD26F16F-64F8-450E-8384-FB69BC4BF513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C47429F-E97F-4B10-9C47-7D0A6DD34543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C47429F-E97F-4B10-9C47-7D0A6DD34543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C47429F-E97F-4B10-9C47-7D0A6DD34543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C47429F-E97F-4B10-9C47-7D0A6DD34543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76A3E07A-65F9-4614-AFA6-94F224B520AD}
+	EndGlobalSection
+EndGlobal
